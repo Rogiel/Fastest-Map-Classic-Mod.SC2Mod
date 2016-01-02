@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=A mod that offers a base for building fastest like maps.
+DocInfo/DescShort=Any
+DocInfo/Name=Fastest Map Classic Mod

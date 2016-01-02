@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CFootprint id="Footprint5x5Contour">
+        <Layers index="Check">
+            <Sets index="0">
+                <Negative index="NearResources" value="0"/>
+            </Sets>
+        </Layers>
+        <Shape>
+            <Offsets value="-1,-2.5;1,-2.5;-1,2.5;1,2.5;-2.5,-1;-2.5,1;2.5,-1;2.5,1"/>
+            <Borders value="0,4,2;1,0,2;2,3,2;3,7,2;4,5,2;5,2,2;6,1,2;7,6,2"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="Footprint5x5DropOff">
+        <Layers index="Check">
+            <Sets index="0">
+                <Negative index="NearResources" value="0"/>
+            </Sets>
+        </Layers>
+        <Shape>
+            <Offsets value="-2.5,-2.5;2.5,-2.5;-2.5,2.5;2.5,2.5"/>
+            <Borders value="0,2,2;1,0,2;2,3,2;3,1,2"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="Footprint6x5DropOffCreepSource">
+        <Layers index="Check">
+            <Sets index="0">
+                <Negative index="NearResources" value="0"/>
+            </Sets>
+        </Layers>
+        <Shape>
+            <Offsets value="-2.125,-2.125;2.125,-2.125;-2.125,2.125;2.125,2.125"/>
+            <Borders value="0,2,2;1,0,2;2,3,2;3,1,2"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="Footprint6x5DropOffCreepSourceContour">
+        <Layers index="Check">
+            <Sets index="0">
+                <Negative index="NearResources" value="0"/>
+            </Sets>
+        </Layers>
+        <Shape>
+            <Offsets value="-1,-2.5;1,-2.5;-1,2.5;1,2.5;-2.5,-1;-2.5,1;2.5,-1;2.5,1"/>
+            <Borders value="0,4,2;1,0,2;2,3,2;3,7,2;4,5,2;5,2,2;6,1,2;7,6,2"/>
+        </Shape>
+    </CFootprint>
+</Catalog>

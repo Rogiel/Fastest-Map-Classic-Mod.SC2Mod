@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CAbilHarvest id="DroneHarvest">
+        <FlagArray index="BypassResourceQueue" value="1"/>
+    </CAbilHarvest>
+    <CAbilHarvest id="ProbeHarvest">
+        <FlagArray index="BypassResourceQueue" value="1"/>
+    </CAbilHarvest>
+    <CAbilHarvest id="SCVHarvest">
+        <FlagArray index="BypassResourceQueue" value="1"/>
+    </CAbilHarvest>
+</Catalog>
