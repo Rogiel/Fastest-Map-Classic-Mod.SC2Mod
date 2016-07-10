@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <Catalog>
+    <CBehaviorResource id="HarvestableVespeneGeyserGas">
+        <IdealHarvesterCount value="0"/>
+    </CBehaviorResource>
+    <CBehaviorResource id="HarvestableVespeneGeyserGasProtoss">
+        <IdealHarvesterCount value="0"/>
+    </CBehaviorResource>
+    <CBehaviorResource id="HarvestableVespeneGeyserGasZerg">
+        <IdealHarvesterCount value="0"/>
+    </CBehaviorResource>
     <CBehaviorResource id="HighYieldMineralFieldMinerals">
         <Capacity value="100000000"/>
         <Contents value="100000000"/>
@@ -11,10 +20,12 @@
     <CBehaviorResource id="MineralFieldMinerals">
         <Capacity value="100000000"/>
         <Contents value="100000000"/>
+        <IdealHarvesterCount value="0"/>
     </CBehaviorResource>
     <CBehaviorResource id="MineralFieldMinerals750">
         <Capacity value="100000000"/>
         <Contents value="100000000"/>
+        <IdealHarvesterCount value="0"/>
     </CBehaviorResource>
     <CBehaviorResource id="RawRichVespeneGeyserGas">
         <Capacity value="100000000"/>
